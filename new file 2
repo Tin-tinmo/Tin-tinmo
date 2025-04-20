@@ -1,0 +1,5 @@
+flask
+flask-restful
+cryptography
+requests
+gunicorn
